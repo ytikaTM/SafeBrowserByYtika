@@ -1,1 +1,1 @@
-# SafeBrowserByYtika
+# SafeBrowser
